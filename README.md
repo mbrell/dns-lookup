@@ -1,2 +1,2 @@
 # dns-lookup
-DNS Lookup tool.
+simple
