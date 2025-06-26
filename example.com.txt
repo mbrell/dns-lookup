@@ -1,0 +1,30 @@
+DNS Lookup results for: example.com
+
+A Records:
+  23.215.0.136
+  23.215.0.138
+  23.192.228.80
+  23.192.228.84
+  96.7.128.175
+  96.7.128.198
+
+AAAA Records:
+  2600:1408:ec00:36::1736:7f31
+  2600:1408:ec00:36::1736:7f24
+  2600:1406:3a00:21::173e:2e66
+  2600:1406:3a00:21::173e:2e65
+  2600:1406:bc00:53::b81e:94ce
+  2600:1406:bc00:53::b81e:94c8
+
+MX Records:
+  0 .
+
+CNAME Records:
+  No records found.
+
+TXT Records:
+  "_k2n1y4vw3qtb4skdx9e7dxt97qrmmq9"
+  "v=spf1 -all"
+
+SOA Records:
+  ns.icann.org. noc.dns.icann.org. 2025011691 7200 3600 1209600 3600
